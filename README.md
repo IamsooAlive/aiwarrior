@@ -14,7 +14,7 @@ This project moves beyond traditional plagiarism checkers by analyzing text for 
 
 #### ⚙️ Technologies Used
 
-  * **Frontend:** `React` or 
+  * **Frontend:** `React` 
   * **Backend:** `Python` (using `Flask`)
   * **Database:**  `MongoDB`
   * **AI/ML:** Custom-built models to detect AI-specific patterns.
